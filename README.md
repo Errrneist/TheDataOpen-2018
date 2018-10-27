@@ -4,5 +4,5 @@
 ## Team 11
 * Hongjun Wu
 * Janurary Shen
-* Ajinkya
+* Ajinkya Sheth
 * Jin Liu
